@@ -51,10 +51,6 @@ const CUSTOMER_SITES = {
         api: 'http://tangrenjie.tv/api.php/provide/vod/at/xm',
         name: '唐人街1',
     },
-    senlin: {
-        api: 'http://slapibf.com/api.php/provide/vod',
-        name: '森林资源',
-    },
     yingku: {
         api: 'http://api.ykapi.net/api.php/provide/vod',
         name: '影库资源网',
